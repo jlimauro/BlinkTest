@@ -54,5 +54,5 @@ When doing so be sure to copy everything in the <b>publish</b> folder which shou
  * The two LEDs on the breadboard should now be alternating and will each blink 10 times.
  
  My breadboard layout:
- [[https://github.com/jlimauro/BlinkTest/blob/master//img/LedBreadBoardLayout.JPG]]
+ [[https://github.com/jlimauro/BlinkTest/blob/master/IMG/LedBreadBoardLayout.JPG]]
  
